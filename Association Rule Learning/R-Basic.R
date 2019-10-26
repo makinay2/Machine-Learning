@@ -1,6 +1,6 @@
 getwd()
 setwd("C:/Users/MaJiD/Desktop/Summer-2019/R/R-practice")
-
+##majid
 #Exexrcise 2.1.
 before=c(78,72,78,79,105)
 after=c(67,65,79,70,93)
