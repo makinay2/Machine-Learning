@@ -12,7 +12,7 @@ mean(weight_loss)
 #Exexrcise 2.2.
 #not important
 
-#Exexrcise 2.3.
+#Exexrcise 2.3.1
 
 i<-seq(1,12,by=0.5)
 i
